@@ -1,2 +1,2 @@
-message = "Hello Git"
+message = "Hello TortoiseGit"
 print(message)
